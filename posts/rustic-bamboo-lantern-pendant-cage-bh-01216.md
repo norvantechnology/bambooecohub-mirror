@@ -2,7 +2,7 @@
 title: "RUSTIC BAMBOO LANTERN PENDANT CAGE BH 01216"
 description: "Discover rustic-bamboo-lantern-pendant-cage-bh-01216 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/rustic-bamboo-lantern-pendant-cage-bh-01216"
-published_at: "2026-07-23T17:38:02.055Z"
+published_at: "2026-07-23T17:52:55.865Z"
 type: "product"
 ---
 
