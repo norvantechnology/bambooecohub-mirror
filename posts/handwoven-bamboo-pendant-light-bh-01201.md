@@ -2,7 +2,7 @@
 title: "HANDWOVEN BAMBOO PENDANT LIGHT BH 01201"
 description: "Discover handwoven-bamboo-pendant-light-bh-01201 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/handwoven-bamboo-pendant-light-bh-01201"
-published_at: "2026-07-23T18:02:38.151Z"
+published_at: "2026-07-23T18:17:49.036Z"
 type: "product"
 ---
 
