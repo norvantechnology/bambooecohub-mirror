@@ -2,7 +2,7 @@
 title: "BAMBOO SPHERE HANGING LIGHT BH 01309"
 description: "Discover bamboo-sphere-hanging-light-bh-01309 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/bamboo-sphere-hanging-light-bh-01309"
-published_at: "2026-07-23T17:58:33.955Z"
+published_at: "2026-07-23T18:13:14.398Z"
 type: "product"
 ---
 
