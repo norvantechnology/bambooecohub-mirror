@@ -2,7 +2,7 @@
 title: "ARTISAN BAMBOO BEDSIDE LAMP BH 01403"
 description: "Discover artisan-bamboo-bedside-lamp-bh-01403 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/artisan-bamboo-bedside-lamp-bh-01403"
-published_at: "2026-07-23T17:25:56.512Z"
+published_at: "2026-07-23T17:41:05.763Z"
 type: "product"
 ---
 
