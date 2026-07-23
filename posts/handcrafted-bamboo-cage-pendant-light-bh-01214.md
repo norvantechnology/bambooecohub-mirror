@@ -2,7 +2,7 @@
 title: "HANDCRAFTED BAMBOO CAGE PENDANT LIGHT BH 01214"
 description: "Discover handcrafted-bamboo-cage-pendant-light-bh-01214 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/handcrafted-bamboo-cage-pendant-light-bh-01214"
-published_at: "2026-07-23T17:45:28.531Z"
+published_at: "2026-07-23T18:00:17.037Z"
 type: "product"
 ---
 
