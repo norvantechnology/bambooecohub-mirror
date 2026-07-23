@@ -2,7 +2,7 @@
 title: "WOVEN BAMBOO DOME PENDANT BH 01218"
 description: "Discover woven-bamboo-dome-pendant-bh-01218 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/woven-bamboo-dome-pendant-bh-01218"
-published_at: "2026-07-23T18:24:03.584Z"
+published_at: "2026-07-23T18:37:07.042Z"
 type: "product"
 ---
 
