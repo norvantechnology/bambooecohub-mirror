@@ -2,7 +2,7 @@
 title: "ASIAN DOME BAMBOO CEILING LIGHT BH 01306"
 description: "Discover asian-dome-bamboo-ceiling-light-bh-01306 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/asian-dome-bamboo-ceiling-light-bh-01306"
-published_at: "2026-07-23T18:11:43.427Z"
+published_at: "2026-07-23T18:26:21.586Z"
 type: "product"
 ---
 
