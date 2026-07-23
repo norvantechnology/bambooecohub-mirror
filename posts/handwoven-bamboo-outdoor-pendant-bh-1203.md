@@ -2,7 +2,7 @@
 title: "HANDWOVEN BAMBOO OUTDOOR PENDANT BH 1203"
 description: "Discover handwoven-bamboo-outdoor-pendant-bh-1203 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/handwoven-bamboo-outdoor-pendant-bh-1203"
-published_at: "2026-07-23T17:32:25.207Z"
+published_at: "2026-07-23T17:47:25.183Z"
 type: "product"
 ---
 
