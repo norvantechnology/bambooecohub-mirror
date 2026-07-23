@@ -2,7 +2,7 @@
 title: "MINI BAMBOO STRING LIGHTS BH 01303"
 description: "Discover mini-bamboo-string-lights-bh-01303 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/mini-bamboo-string-lights-bh-01303"
-published_at: "2026-07-23T17:50:28.724Z"
+published_at: "2026-07-23T18:05:15.580Z"
 type: "product"
 ---
 
