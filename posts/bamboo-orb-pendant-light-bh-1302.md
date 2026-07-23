@@ -2,7 +2,7 @@
 title: "BAMBOO ORB PENDANT LIGHT BH 1302"
 description: "Discover bamboo-orb-pendant-light-bh-1302 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/bamboo-orb-pendant-light-bh-1302"
-published_at: "2026-07-23T17:58:07.501Z"
+published_at: "2026-07-23T18:12:47.871Z"
 type: "product"
 ---
 
