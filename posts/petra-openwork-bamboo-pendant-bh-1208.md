@@ -2,7 +2,7 @@
 title: "PETRA OPENWORK BAMBOO PENDANT BH 1208"
 description: "Discover petra-openwork-bamboo-pendant-bh-1208 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/petra-openwork-bamboo-pendant-bh-1208"
-published_at: "2026-07-23T18:22:13.365Z"
+published_at: "2026-07-23T18:35:19.235Z"
 type: "product"
 ---
 
