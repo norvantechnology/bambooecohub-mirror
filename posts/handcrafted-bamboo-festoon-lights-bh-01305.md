@@ -2,7 +2,7 @@
 title: "HANDCRAFTED BAMBOO FESTOON LIGHTS BH 01305"
 description: "Discover handcrafted-bamboo-festoon-lights-bh-01305 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/handcrafted-bamboo-festoon-lights-bh-01305"
-published_at: "2026-07-23T18:15:20.167Z"
+published_at: "2026-07-23T18:29:39.938Z"
 type: "product"
 ---
 
