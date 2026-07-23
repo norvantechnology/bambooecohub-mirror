@@ -2,7 +2,7 @@
 title: "WELTY RUSTIC BAMBOO RATTAN LANTERN PENDANT BH 01210"
 description: "Discover welty-rustic-bamboo-rattan-lantern-pendant-bh-01210 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/welty-rustic-bamboo-rattan-lantern-pendant-bh-01210"
-published_at: "2026-07-23T17:54:14.691Z"
+published_at: "2026-07-23T18:09:02.169Z"
 type: "product"
 ---
 
