@@ -2,7 +2,7 @@
 title: "GRIAN LIGHT BROWN SINGLE PENDANT BH 01213"
 description: "Discover grian-light-brown-single-pendant-bh-01213 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/grian-light-brown-single-pendant-bh-01213"
-published_at: "2026-07-23T18:14:34.478Z"
+published_at: "2026-07-23T18:28:54.159Z"
 type: "product"
 ---
 
