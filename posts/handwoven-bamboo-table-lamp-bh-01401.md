@@ -2,7 +2,7 @@
 title: "HANDWOVEN BAMBOO TABLE LAMP BH 01401"
 description: "Discover handwoven-bamboo-table-lamp-bh-01401 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/handwoven-bamboo-table-lamp-bh-01401"
-published_at: "2026-07-23T18:18:07.113Z"
+published_at: "2026-07-23T18:32:00.299Z"
 type: "product"
 ---
 
