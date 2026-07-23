@@ -2,7 +2,7 @@
 title: "LOTUS LEAF BAMBOO PENDANT LIGHT BH 1207"
 description: "Discover lotus-leaf-bamboo-pendant-light-bh-1207 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/lotus-leaf-bamboo-pendant-light-bh-1207"
-published_at: "2026-07-23T17:34:10.947Z"
+published_at: "2026-07-23T17:49:10.096Z"
 type: "product"
 ---
 
