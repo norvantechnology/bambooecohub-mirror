@@ -2,7 +2,7 @@
 title: "HANDWOVEN BAMBOO BELL PENDANT BH 1209"
 description: "Discover handwoven-bamboo-bell-pendant-bh-1209 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/handwoven-bamboo-bell-pendant-bh-1209"
-published_at: "2026-07-23T18:01:35.527Z"
+published_at: "2026-07-23T18:16:30.786Z"
 type: "product"
 ---
 
