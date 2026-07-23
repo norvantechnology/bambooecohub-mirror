@@ -2,7 +2,7 @@
 title: "CLASSIC BAMBOO WEAVE PENDANT BH 1206"
 description: "Discover classic-bamboo-weave-pendant-bh-1206 on BambooEcoHub. Eco-friendly, sustainable bamboo products."
 canonical_url: "https://bambooecohub.com/product/classic-bamboo-weave-pendant-bh-1206"
-published_at: "2026-07-23T17:29:29.270Z"
+published_at: "2026-07-23T17:44:35.825Z"
 type: "product"
 ---
 
